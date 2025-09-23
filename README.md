@@ -1,26 +1,14 @@
 <h1 align="center">Hi 👋, I'm Siddharth Mishra</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-<table>
-  <tr>
-    <td>
-      <h3>📚 About Me</h3>
-      <ul>
-        <li>💻 Strong foundation in <strong>Frontend Development</strong></li>
-        <li>🛠️ Expanding my <strong>Backend skills</strong> (Node.js, Express, SQL)</li>
-        <li>🔭 Currently working on <strong>Shopverse</strong> – an e-commerce platform built using Node.js</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="250" alt="coding gif"/>
-    </td>
-  </tr>
-</table>
+<h3 align="center">Frontend Developer Intern @ Seventh Triangle </h3>
 
 ---
 
-- 🌱 Currently learning **Express.js** and focusing on **problem solving**
-- 💬 Ask me about **React, JavaScript, Java, Node.js, and SQL**
+### 📚 About Me
+- 💻 Strong foundation in **Frontend Development**
+- 🛠️ Currently exploring **Shopify Liquid, CSS, and JS**
+- 🔭 Working on **Shopverse** – an e-commerce platform built using Node.js
+- 🌱 Continuously learning **Express.js** and focusing on **problem solving**
+- 💬 Ask me about **React, JavaScript, Java, Node.js, SQL**
 - 👨‍💻 All my projects: [My Portfolio](https://myportfolio-five-lyart.vercel.app/)
 - 📫 Reach me at: **sid1402mishra@gmail.com**
 - 📄 My resume: [View Resume](https://drive.google.com/file/d/1_-_mlJi1X1tAcwTzTxK09tCeZ97V9Wk9/view)
@@ -60,6 +48,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
 </p>
+
+---
+
+### 🎉 Hacktoberfest & Badges
+[![An image of @iamsid19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamsid19)](https://holopin.io/@iamsid19)
 
 ---
 
