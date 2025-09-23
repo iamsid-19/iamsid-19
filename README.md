@@ -1,17 +1,31 @@
 <h1 align="center">Hi 👋, I'm Siddharth Mishra</h1>
-<h3 align="center">Frontend Developer Intern @ Seventh Triangle </h3>
+<h3 align="center">Frontend Developer Intern @ Seventh Triangle</h3>
 
 ---
 
-### 📚 About Me
-- 💻 Strong foundation in **Frontend Development**
-- 🛠️ Currently exploring **Shopify Liquid, CSS, and JS**
-- 🔭 Working on **Shopverse** – an e-commerce platform built using Node.js
-- 🌱 Continuously learning **Express.js** and focusing on **problem solving**
-- 💬 Ask me about **React, JavaScript, Java, Node.js, SQL**
-- 👨‍💻 All my projects: [My Portfolio](https://myportfolio-five-lyart.vercel.app/)
-- 📫 Reach me at: **sid1402mishra@gmail.com**
-- 📄 My resume: [View Resume](https://drive.google.com/file/d/1_-_mlJi1X1tAcwTzTxK09tCeZ97V9Wk9/view)
+<table>
+  <tr>
+    <td>
+      <h3>📚 About Me</h3>
+      <ul>
+        <li>💻 Strong foundation in <strong>Frontend Development</strong></li>
+        <li>🛠️ Currently exploring <strong>Shopify Liquid</strong></li>
+        <li>🔭 Working on <strong>Shopverse</strong> – an e-commerce platform built using Node.js</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="250" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+- 🌱 Continuously learning **Express.js** and focusing on **problem solving**  
+- 💬 Ask me about **React, JavaScript, Java, Node.js, SQL and Shopify Liquid**  
+- 👨‍💻 All my projects: [My Portfolio](https://myportfolio-five-lyart.vercel.app/)  
+- 📫 Reach me at: **sid1402mishra@gmail.com**  
+- 📄 My resume: [View Resume](https://drive.google.com/file/d/1_-_mlJi1X1tAcwTzTxK09tCeZ97V9Wk9/view)  
 
 ---
 
