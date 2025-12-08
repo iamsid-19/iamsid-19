@@ -9,7 +9,7 @@
       <h3>📚 About Me</h3>
       <ul>
         <li>💻 Strong foundation in <strong>Frontend Development</strong></li>
-        <li>🛠️ Currently exploring <strong>Shopify Liquid</strong></li>
+        <li>🛠️ Currently working as a <strong>Associate Software Engineer</strong></li>
         <li>🔭 Working on <strong>Shopverse</strong> – an e-commerce platform built using Node.js</li>
       </ul>
     </td>
