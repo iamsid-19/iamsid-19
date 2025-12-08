@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Mishra</h1>
-<h3 align="center">Frontend Developer Intern @ Seventh Triangle</h3>
+<h3 align="center">Associate Software Engineer @ Seventh Triangle</h3>
 
 ---
 
